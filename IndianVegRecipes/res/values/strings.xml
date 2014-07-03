@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indian Veg Recipes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_starters">Starters</string>
+    <string name="title_activity_break_fast">BreakFast</string>
+    <string name="title_activity_snacks">Snacks</string>
+    <string name="title_activity_no_garlic_onion">NoGarlicOnion</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_recipe_detail">RecipeDetailActivity</string>
+    <string name="title_activity_trail">Trail</string>
+    
+    <string name="text">text</string>
+    <string name="image">image</string>
+
+</resources>
